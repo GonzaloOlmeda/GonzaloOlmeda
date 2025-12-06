@@ -12,11 +12,11 @@
 <br>
 <br>
 
-- 🌱 Actualmente me mantengo aprendiendo del lado  Back end utilizando Spring Boot, y del lado del Front End Angular
+- 🌱 Actualmente me mantengo aprendiendo del lado Back End utilizando Spring Boot, y del lado del Front End Angular
 
 - 📫 Como contactarme: gonzalo.olmeda06@gmail.com
 
-- ⚡ Soy una persona a la que le encanta todo tipo de tecnologias, y dispuesta a aprender
+- ⚡ Soy una persona a la que le encanta todo tipo de tecnologias, y dispuesta a aprender y evolucionar dia a dia
 
 <br>
 <br>
