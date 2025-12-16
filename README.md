@@ -16,7 +16,7 @@
 
 - 📫 Como contactarme: gonzalo.olmeda06@gmail.com
 
-- ⚡ Soy una persona a la que le encanta todo tipo de tecnologias, y dispuesta a aprender y evolucionar dia a dia
+- ⚡Soy una persona proactiva y predispuesta al aprendizaje continuo, con gran interés en aprender nuevas tecnologías y mantenerse actualizado respecto a la programación. Actualmente muy interesado en los avances de la inteligencia artificial y en cómo estos impactan en el desarrollo de software, con un interés especialmente en el desarrollo back end.
 
 <br>
 <br>
