@@ -1,6 +1,6 @@
 <h1 align="center">Gonzalo Olmeda ,👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+Junior&center=true&width=440&height=45"></a>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack+Junior&center=true&width=440&height=45">
 </p>
 
 
