@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- 🌱 Actualmente me mantengo aprendiendo del lado Back End utilizando Spring Boot, y del lado del Front End Angular
+- 🌱 Actualmente me encuentro aprendiendo SpringBoot del lado Back End, y Angular en el Front
 
 - 📫 Como contactarme: gonzalo.olmeda06@gmail.com
 
